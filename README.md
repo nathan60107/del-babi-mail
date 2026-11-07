@@ -2,7 +2,11 @@
 
 在巴哈姆特站內信（`https://mailbox.gamer.com.tw`）一鍵刪除動畫瘋問答遊戲的巴幣中獎通知信。本專案為 userscript，主要原始碼為本 repo 的 `main.js`。
 
-- Greasy Fork：https://greasyfork.org/zh-TW/scripts/399420
+**安裝**
+1. 安裝使用者腳本管理器，例如 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。
+2. 前往 Greasy Fork 安裝本腳本：https://greasyfork.org/zh-TW/scripts/399420
+
+從 Greasy Fork 安裝後，腳本管理器會自動更新到最新版本。除非要參與開發，否則不需要從本 repo 手動安裝。
 
 **功能**
 - 在站內信收件匣的選單列加入「刪除巴幣中獎信」按鈕。
